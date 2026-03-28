@@ -1,0 +1,2 @@
+type,value,description,source,confidence,domain,bad-domain.com,phishing domain,open-source,medium
+ip,192.168.1.1,C2 server,mandiant,high,hash,44d88612fea8a8f36de82e1278abb02f,malware sample,virustotal,high
