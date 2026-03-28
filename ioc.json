@@ -1,9 +1,0 @@
-[
-  {
-    "type": "ip",
-    "value": "192.168.1.1",
-    "description": "C2 server",
-    "source": "mandiant",
-    "confidence": "high"
-  }
-]
